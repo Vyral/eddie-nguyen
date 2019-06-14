@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: San Diego Real Estate Video Blog with Eddie Nguyen
+description: Our mission at CORE Real Estate Service is to be your best resource for San Diego real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The CORE Real Estate Service, your professional San Diego Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,41 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Eddie Nguyen
   title:
-  license_number:
+  license_number: 'Cal BRE#: 01402467'
   about_markdown: |
-
-  brand:
+    CORE Real Estate Services was founded by Eddie Nguyen, and the Nguyen Nguyen Team.  Before opening up Core Real Estate Services, Eddie began his real estate career working for Prudential in 2002.  In 2004, he felt he needed to bring more value to his clients, so he partnered up with a mortgage company Equity Capital Group, in Downtown San Diego, and this is where he was introduced to the mortgaged business.   He worked closely with preferred banking partners, and gain the mortgaged experience necessary to offer the best service to his clients.   After learning the mortgage business. he was recruited to work for the top Century 21 in the world, and Eddie and his team quickly developed into one of the strongest real estate teams in San Diego County.  In fact, he and his team are ranked in the top 0.5% of over 30,000 licensed agents in San Diego County.
+  brand: CORE Real Estate Service
   brokerage:
-  market:
-  address:
-  phone:
+  market: San Diego
+  address: '2828 University Ave #107<br>San Diego, CA 92104'
+  phone: 619-788-3343
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: ed@ednguyen.com
+  url: http://www.CoreRealEstateHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.accesssandiegohomes.com/search/advanced_search/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.accesssandiegohomes.com/selling/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your San Diego Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.accesssandiegohomes.com/search/advanced_search/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a San Diego Home?"
+    CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.accesssandiegohomes.com/selling/
 
 lender:
   show_section: false
@@ -74,19 +74,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'San Diego Real Estate Podcast with Eddie Nguyen'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from CORE Real Estate Service - your professional San Diego Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Eddie Nguyen'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: San Diego Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -94,7 +94,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#4d4f4f'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#a7c5b0'
 
 buttons:
   button_radius_number: 0
