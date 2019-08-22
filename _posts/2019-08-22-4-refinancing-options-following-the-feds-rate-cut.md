@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/BezIdvpRntg'
 
 {% include youtube.html %}
 
-The Fed recently dropped some big news about interest rates that make now a prime moment to refinance. Here’s what you need to know.
+<p style="text-align: center;"><em>The Fed recently dropped some big news about interest rates that make now a prime moment to refinance. Here’s what you need to know.</em></p>
 
 A few weeks ago, the Federal Reserve cut interest rates by 0.25%. What now?
 
