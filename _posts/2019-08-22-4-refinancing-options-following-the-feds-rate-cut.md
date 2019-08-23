@@ -31,13 +31,13 @@ Here are the four refinance options you have before you:
 
 **1\. Lower your term** from a 30-year mortgage to a 20- or 15-year mortgage. This will help you pay off your home sooner, lower your interest rate, save you hundreds of thousands of dollars.
 
-**2\. Lower your interest rate**. For example: On a $500,000 loan at a 4.5% interest rate, your principal and interest payment is $2,533. On a $500,000 loan with an interest rate of 3.5%, your principal and interest payment is $2,245—a monthly savings of $288.&nbsp;<br>Moreover, throughout the life of the loan, you’ll save approximately $104,000 in interest.
+**2\. Lower your interest rate**. For example: On a $500,000 loan at a 4.5% interest rate, your principal and interest payment is $2,533. On a $500,000 loan with an interest rate of 3.5%, your principal and interest payment is $2,245—a monthly savings of $288. Moreover, throughout the life of the loan, you’ll save approximately $104,000 in interest.
 
 **3\. Take cash out.** If you’ve owned your property for a few years and built its equity, you can take some of that equity and reinvest it into your home, pay off your debts, and so on. With rates this low, we could possibly take out the money you want and keep your monthly payments similar to what they are now.
 
 {% include pullquote.html %}
 
-**4\. Move to a conventional loan.** Changing from an FHA loan to a conventional loan can get rid of your mortgage insurance. If you’re currently in a VA loan, we could refinance you out of that loan into a conventional one, allowing you to use the VA loan again in the future to buy another great property.
+**4\. Move to a conventional loan.** Changing from an FHA loan to a conventional loan can get rid of your mortgage insurance. If you’re currently using a VA loan, we could refinance you out of that loan into a conventional one, allowing you to use the VA loan again in the future to buy another great property.
 
 These are the four most popular options in the market right now. With interest rates being this low, it makes perfect sense for you to examine all the facts and numbers so that you can make a great business decision for you and your family.
 
