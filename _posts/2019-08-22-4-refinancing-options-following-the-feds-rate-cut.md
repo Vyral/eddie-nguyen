@@ -8,7 +8,7 @@ excerpt: >-
   The Fed recently dropped some big news about interest rates that make now a
   prime moment to refinance. Here’s what you need to know.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Eddie+Nguyen/2019/CORE+Real+Estate+4+Finance+Options.mp4
+  https://vyralmarketing.s3.amazonaws.com/Eddie+Nguyen/2019/4+Refinancing+Options+Following+the+Feds+Rate+Cut.mp4
 pullquote: >-
   Lowering your mortgage term will help you pay off your home sooner, lower your
   interest rate, save you hundreds of thousands of dollars.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/BezIdvpRntg'
+youtube_code: 'https://youtu.be/wSUTT8snCDQ'
 ---
 
 {% include youtube.html %}
