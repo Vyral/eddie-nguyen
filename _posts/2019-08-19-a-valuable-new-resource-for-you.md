@@ -4,7 +4,7 @@ title: A Valuable New Resource For You
 date: 2019-08-19 19:07:00
 tags:
   - Real Estate
-excerpt:
+excerpt: I’d like to welcome you to my new video blog.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
