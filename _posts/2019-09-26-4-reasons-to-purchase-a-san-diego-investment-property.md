@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/c4cLviY5aaM'
 
 {% include youtube.html %}
 
-If you’ve been thinking of investing in the San Diego real estate market, today’s message is for you.
+<p style="text-align: center;"><em>If you’ve been thinking of investing in the San Diego real estate market, today’s message is for you.</em></p>
 
 Investing in San Diego real estate is a fantastic way to build wealth, and there are four reasons why you should consider pursuing this opportunity:
 
