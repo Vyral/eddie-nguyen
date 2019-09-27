@@ -37,10 +37,10 @@ After taking all these points into account, you may be thinking, “This sounds 
 
 {% include pullquote.html %}
 
-First, you’ll need a 20% down payment to buy an investment property. If you happen to already have that kind of cash on-hand through your savings account, you’re in a good place to start. However, if you don’t have enough already saved up, you still have some options. Interest rates are incredibly low right now, which means it’s a great time to pull equity out of your own home and apply it toward a down payment on an investment.&nbsp;
+First, you’ll need a 20% down payment to buy an investment property. If you happen to already have that kind of cash on hand through your savings account, you’re in a good place to start. However, if you don’t have enough already saved up, you still have some options. Interest rates are incredibly low right now, which means it’s a great time to pull equity out of your own home and apply it toward a down payment on an investment.&nbsp;
 
 Or, if you’re thinking of moving to a new home soon anyway, another great option is to simply turn your current home into an investment property instead of selling it. Unlike the purchase of a new investment property, you can purchase your next primary residence for as little as 3% down.
 
-Hopefully this has given you a better understanding into why (and how) to invest in our San Diego real estate market.
+Hopefully, this has given you a better understanding of why (and how) to invest in our San Diego real estate market.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
