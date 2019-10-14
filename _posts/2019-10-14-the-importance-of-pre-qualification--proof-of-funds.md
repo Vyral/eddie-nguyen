@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/tbeTHkwm_gA'
 
 {% include youtube.html %}
 
-There are a few key benefits of getting pre-approved for a home loan. Learn more here.
+<p style="text-align: center;"><em>There are a few key benefits of getting pre-approved for a home loan. Learn more here.</em></p>
 
 It’s important to understand that when a seller accepts your offer, you are asking them to remove their property from the market as an active listing while you meet your contingency dates. Therefore, **the stronger the financial evidence that you include with your offer, the more likely the seller will accept your offer over other prospective buyers.** Your proof of funds will help the seller believe and trust that your pre-qualification is evidence that you’re a serious consumer who poses minimal risk to them.
 
