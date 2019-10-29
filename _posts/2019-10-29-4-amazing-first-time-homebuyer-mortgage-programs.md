@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/8UqBjtzFZDY'
 
 {% include youtube.html %}
 
-If you’re looking for a more affordable way to buy a home, one of these four loan programs may be right for you.
+<p style="text-align: center;"><em>If you’re looking for a more affordable way to buy a home, one of these four loan programs may be right for you.</em></p>
 
 If you’ve been thinking of purchasing a home but fear that you don’t have enough money for a down payment, I’ve got good news: You’re probably closer to achieving your homeownership dreams than you think.
 
