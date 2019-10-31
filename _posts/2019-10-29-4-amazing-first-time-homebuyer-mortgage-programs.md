@@ -35,6 +35,6 @@ Despite what conventional wisdom says, you don’t actually need 20% down to buy
 
 **3\. Conventional 97.** This loan, which requires just 3% down, has a credit score minimum of 620 and carries slightly higher interest rates than the other loans we’ve listed, but it is still a popular option.&nbsp;
 
-**4\. Down payment assistance program.** If money is an issue for you, this may be the perfect option. The income limit will depend on the home’s size and location, &nbsp;is usually at or below $120,000. Perhaps the greatest draw to this program is that it allows those who qualify to buy a home with as little as 1% down.
+**4\. Down payment assistance program.** If money is an issue for you, this may be the perfect option. The income limit will depend on the home’s size and location, but it's usually at or below $120,000. Perhaps the greatest draw to this program is that it allows those who qualify to buy a home with as little as 1% down.
 
-Hopefully you’ve found value in this message. However, before you proceed with any of these programs, make sure you speak to your lender to see what they recommend. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+Hopefully, you’ve found value in this message. However, before you proceed with any of these programs, make sure you speak to your lender to see what they recommend. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
