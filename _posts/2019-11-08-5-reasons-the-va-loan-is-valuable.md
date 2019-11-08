@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/6xMEhEVDCY8'
 
 {% include youtube.html %}
 
-Here are five reasons why any U.S. service member should use the VA loan program.
+<p style="text-align: center;"><em>Here are five reasons why any U.S. service member should use the VA loan program.</em></p>
 
 Today I’m sharing my five reasons why the VA loan is one of the most valuable, if not the most valuable loan program available to current military service members and veterans:
 
