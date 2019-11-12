@@ -12,8 +12,8 @@ pullquote: Reuse the 100% financing more than once.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 'https://youtu.be/N-zysF-OpFo'
+youtube_alternate_image: /uploads/11-1---eddie-nguyen---yt.jpg
+youtube_code: N-zysF-OpFo
 ---
 
 {% include youtube.html %}
