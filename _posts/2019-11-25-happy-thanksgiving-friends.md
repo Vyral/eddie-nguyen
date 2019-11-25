@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/bZ6WGPKVe5g'
 
 {% include youtube.html %}
 
-This Thanksgiving, we're saying thank you to those who make our business possible.
+<p sty;e="text-align: center;"><em>This Thanksgiving, we're saying thank you to those who make our business possible.</em></p>
 
 The 2019 holiday season has officially begun\! We hope you are as excited as we are.&nbsp;
 
