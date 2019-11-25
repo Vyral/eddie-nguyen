@@ -29,4 +29,4 @@ We wouldn’t be where we are today without all of your support.&nbsp;
 
 Enjoy your Thanksgiving dinner with all of your family and friends—that’s what we plan to do\!&nbsp;
 
-In the meantime, please don’t hesitate to reach out to us if you have any real estate questions. We would be happy to help you.&nbsp;
+In the meantime, please don’t hesitate to reach out to us if you have any real estate or mortgage questions. We would be happy to help you.&nbsp;
