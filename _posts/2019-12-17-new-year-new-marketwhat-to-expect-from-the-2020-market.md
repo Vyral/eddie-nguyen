@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/p4HqrciXcCg'
 
 {% include youtube.html %}
 
-What do the experts predict for the housing market in 2020?
+<p style="text-align: center;"><em>What do the experts predict for the housing market in 2020?</em></p>
 
 What can we expect from the housing market come 2020?
 
